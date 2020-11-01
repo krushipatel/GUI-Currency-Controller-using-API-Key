@@ -1,4 +1,4 @@
-00import json
+import json
 import requests
 import tkinter as tk
 from tkinter import *
